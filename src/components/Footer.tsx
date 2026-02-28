@@ -97,17 +97,16 @@ export default function Footer() {
                             <li className="flex items-start gap-3">
                                 <MapPin className="w-5 h-5 text-primary shrink-0 mt-0.5" />
                                 <span className="text-sm leading-relaxed text-slate-400">
-                                    123 Aqua Street, Crystal Park Phase 2,<br />
-                                    Metro City, 100021
+                                    12,Shanti Nagar,Bhadakmora Near sai temple<br />vapi,valsad 396195
                                 </span>
                             </li>
                             <li className="flex items-center gap-3">
                                 <Phone className="w-5 h-5 text-primary shrink-0" />
-                                <span className="text-sm text-slate-400">+1 (800) PURE-DROP</span>
+                                <span className="text-sm text-slate-400">+91 972452560</span>
                             </li>
                             <li className="flex items-center gap-3">
                                 <Mail className="w-5 h-5 text-primary shrink-0" />
-                                <span className="text-sm text-slate-400">hello@puredropwaters.com</span>
+                                <span className="text-sm text-slate-400">narayannaru942@gmail.com</span>
                             </li>
                         </ul>
                     </div>
